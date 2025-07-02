@@ -1,5 +1,5 @@
 {
-  "author": "Abhi",
+  "author": "ArYan",
   "autoRestart": true,
   "accpetPending": false,
   "developermode": false,
@@ -7,17 +7,17 @@
   "notification": false,
   "approval": false,
   "saveState": true,
-  "BOTNAME": "𝐀𝐁𝐇𝐈 -𝐁0𝐓",
+  "BOTNAME": "ArYan -Bot",
   "PREFIX": "#",
   "OPERATOR": [
-    "61552470663865",
-    "100006623113766"
+    "100040814024779",
+    "100040844743102"
   ],
   "ADMINBOT": [
-    "100006623113766",
+    "100040844743102",
     ""
   ],
-  "OWNER": ["61552470663865"], 
+  "OWNER": ["100040844743102"], 
   "APPROVED": [],
   "disabledcmds": [],
   "disabledevents": [],
