@@ -66,15 +66,15 @@ APPROVAL ALLOW IN THIS GROUP!!!
 <------------------------------>
 AND FOR ANY COMPLAINTS OR CONTACT BOT OPERATOR 
 
-DEVELOPER : ABHI YADAV
+DEVELOPER : ArYan.x3
 
 🟣Facebook Account Link: 
 
-https://www.facebook.com/100006623113766
+https://www.facebook.com/mr.be001
 
-🔵WHATSAPP NUMBER: wa.me/+917318018572
+🔵WHATSAPP NUMBER: wa.me/+918824167482
 
-THIS ISADE BY ABHI YADAV`, attachment: fs.createReadStream(gifPath)}, threadID));
+THIS BY ArYan.x3`, attachment: fs.createReadStream(gifPath)}, threadID));
   }})
 .catch(error => {
     console.error(error);
